@@ -1,0 +1,34 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Bookmark with id e355087e-e1de-4a1f-af02-2b87cd181cc6 created","level":"info"}
+{"message":"Card with id e355087e-e1de-4a1f-af02-2b87cd181cc6 not found.","level":"error"}
+{"message":"Card with id 15a40818-20d8-4953-9ca2-f56c400125bf not found.","level":"error"}
+{"message":"Bookmark with id 5b6f71d0-d13d-4382-a1f7-c3ff0b946015 created","level":"info"}
+{"message":"Card with id 5b6f71d0-d13d-4382-a1f7-c3ff0b946015 not found.","level":"error"}
+{"message":"Bookmark with id a1d97aaa-be4f-4918-843f-a6aa294a2425 created","level":"info"}
+{"message":"Bookmark with id 11a38fbf-a31e-486b-8f6a-799bf426c185 created","level":"info"}
+{"message":"Bookmark with id 11a38fbf-a31e-486b-8f6a-799bf426c185 deleted.","level":"info"}
