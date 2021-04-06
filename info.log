@@ -287,3 +287,34 @@
 {"message":"Bookmark with id 123456 not found.","level":"error"}
 {"message":"Bookmark with id 123456 not found.","level":"error"}
 {"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Bookmark with id 1 deleted.","level":"info"}
+{"message":"Bookmark with id 1 not found.","level":"error"}
+{"message":"Bookmark with id 5 created","level":"info"}
+{"message":"Bookmark with id 5 deleted.","level":"info"}
+{"message":"Bookmark with id 5 not found.","level":"error"}
+{"message":"Bookmark with id 6 created","level":"info"}
+{"message":"Bookmark with id 7 created","level":"info"}
+{"message":"Bookmark with id 7 deleted.","level":"info"}
+{"message":"Bookmark with id 6 deleted.","level":"info"}
+{"message":"description is required","level":"error"}
+{"message":"description is required","level":"error"}
+{"message":"Bookmark with id 8 created","level":"info"}
+{"message":"Bookmark with id 8 deleted.","level":"info"}
+{"message":"Bookmark with id 9 created","level":"info"}
+{"message":"Bookmark with id 9 deleted.","level":"info"}
+{"message":"Bookmark with id 2 deleted.","level":"info"}
+{"message":"Bookmark with id 10 created","level":"info"}
+{"message":"Bookmark with id 11 created","level":"info"}
+{"message":"Bookmark with id 12 created","level":"info"}
+{"message":"Bookmark with id 11 deleted.","level":"info"}

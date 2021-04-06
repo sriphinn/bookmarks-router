@@ -129,7 +129,7 @@ bookmarksRouter
       bookmarkToUpdate
     )
       .then(numRowsAffected => {
-        res.status(204).end()
+        res.json({...bookmarkToUpdate, id:req.params.id})
       })
       .catch(next)
   })
